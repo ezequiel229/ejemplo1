@@ -1,0 +1,33 @@
+.ejemplo{
+    background-color: #100e88;
+    color: #a82323;
+    width: 500px;
+    height: 300px;
+    display: inline-block;
+    padding: 20px;
+    margin: 50px;
+    border: 5px solid #141675;
+
+}
+
+.ejemplo1{
+    background-color: #a37716;
+    color: #1ebb65;
+    width: 500px;
+    height: 300px;
+    display: inline-block;
+    padding: 20px;
+    margin: 50px;
+    border-top: 5px solid #0d3058;
+    border-bottom: 10px double #923d0c;
+    border-right: 5px dotted #10e210;
+    border-left: 10px dashed #500808;
+    
+
+}
+
+h2{
+    padding: 0;
+
+}
+
